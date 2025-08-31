@@ -1,4 +1,4 @@
-#HELLO WORLD
+HELLO WORLD
 For ACM Recruitment
 Name:N.Samiksha
 Class:CSE-C
