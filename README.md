@@ -4,7 +4,7 @@ Name:N.Samiksha
 Class:CSE-C
 Roll No:35
 Place:ERNAKULAM
-#skills
+# skills
 python
 git
 problem solving
