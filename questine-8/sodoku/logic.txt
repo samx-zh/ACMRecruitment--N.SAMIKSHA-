@@ -1,3 +1,6 @@
 LOGIC
 So the logic I used is so simple....
-first I checked the first coloumn it already had a 3 in 3rd row and a 1 in second coloumn last row 
+First I checked the first column it already had a 3 in 3rd row and a 1 in second column last row 
+so can't use 1 in first column last spot so filled it first cause second row also has 1 .
+then filled 4 and 2 randomlyin first column . so now the first 2x2 box has only one spot left so filled it.... similarly the 2x2 box below that has only one spot left so filled it tooo...
+then filled 2 in 3rd column 3rd row empt spot then filled 4 in that 2x2 box and then filled 4 at last spot in 3rd column and completed the sudoko by filling the last spot
