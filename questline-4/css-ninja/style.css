@@ -1,0 +1,17 @@
+body {
+    background-color: beige;
+    color: black;
+}
+.column {
+    flex: 1;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+h2 {
+    color: blueviolet;;
+}
+.skills ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
