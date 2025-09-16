@@ -1,10 +1,4 @@
-# ACMRecruitment--N.SAMIKSHA-
-For ACM Recruitment
-Name:N.Samiksha
-Class:CSE-C
-Roll No:35
-Place:ERNAKULAM
-# Skills
-python
-git
-problem solving
+
+Python
+Git
+ LOGICAL Problem solving
